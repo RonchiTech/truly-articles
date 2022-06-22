@@ -1,0 +1,27 @@
+.card {
+  width: 25%;
+  border: 1px solid #7e7a7a;
+}
+
+.card-image img {
+  width: 100%;
+  height: 270px;
+}
+
+.card-title,
+.card-description {
+  font-size: 1rem;
+}
+.card-title,
+.card-description,
+.card-btn-container {
+  padding: 10px 15px;
+}
+
+.card-btn {
+  background-color: #7e7a7a;
+  border: 1px solid #bebebe;
+  padding: 15px;
+  color: #fff;
+  cursor: pointer;
+}
